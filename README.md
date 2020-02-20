@@ -1,2 +1,2 @@
 # vue-im
-Im in vue for  
+Im in vue for  cli
